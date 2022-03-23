@@ -95,3 +95,6 @@ while True:
 # O que estas linhas realizam é a conversão de uma posição de jogo (1-9)
 # em linhas e colunas do tabuleiro. Veja que neste exemplo usamos o tabuleiro como
 # memória de jogadas, além da exibição do estado atual do jogo.
+
+
+# Renato Barbosa
